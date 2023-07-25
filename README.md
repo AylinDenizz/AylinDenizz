@@ -62,4 +62,4 @@ Allianz GeleceğimALL Bootcamp SQL project for creating a blog database.
 
 Language: SQL
 
-See you soon! 😊
+May the force be with you! 😊

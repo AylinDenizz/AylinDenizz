@@ -43,11 +43,6 @@ Allianz GeleceğimALL Bootcamp SQL project for creating a blog database.
 
 Language: SQL
 
-## Contributions
-
-Total of 141 contributions in the last year.
-
-![Contribution Graph](https://github.com/AylinDenizz.png)
 
 ## Contact
 

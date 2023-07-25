@@ -1,4 +1,5 @@
-[![MasterHead] (https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/AylinDenizz)
+
 <h1 align="center">Hi 👋, I'm Aylin Deniz</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
@@ -60,12 +61,5 @@ Language: Python
 Allianz GeleceğimALL Bootcamp SQL project for creating a blog database.
 
 Language: SQL
-
-
-## Contact
-
-- GitHub: [AylinDenizz](https://github.com/AylinDenizz)
-- LinkedIn: [Aylin Deniz](https://www.linkedin.com/in/aylin-deniz)
-- Email: [aylinozunlu@gmail.com](mailto:aylinozunlu@gmail.com)
 
 See you soon! 😊

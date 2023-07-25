@@ -1,7 +1,5 @@
 # Aylin Deniz (AylinDenizz)
 
-![Profile Picture](https://github.com/AylinDenizz.png)
-
 Hello! I'm Aylin Deniz, a Software Developer and Bioengineer based in Turkey.
 
 ## About Me
